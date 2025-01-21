@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
+sqlalchemy
+psycopg2
 -e .
